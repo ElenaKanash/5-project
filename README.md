@@ -5,5 +5,9 @@ Slider cards - https://elenakanash.github.io/5-project/slider/
 2-st project:  
 Drag & drop - https://elenakanash.github.io/5-project/drop/  
 3-st project:  
-Slider - https://elenakanash.github.io/5-project/vertical-slider/
+Slider - https://elenakanash.github.io/5-project/vertical-slider/  
+4-st project:  
+Hover board - https://elenakanash.github.io/5-project/hover-board
+
+  
 
